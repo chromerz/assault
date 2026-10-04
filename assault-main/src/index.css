@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+:root {
+  --background-primary: #0f1015;
+  --background-secondary: #161822;
+  --background-tertiary: #1e212e;
+  --accent-color: #5865f2;
+  --text-normal: #f2f3f5;
+  --text-muted: #949ba4;
+  --chat-bubble: #161822;
+  --border-radius: 10px;
+  --chat-font-size: 14px;
+  --message-spacing: 6px;
+  --font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-family, ui-sans-serif, system-ui, sans-serif);
+  background-color: var(--background-primary, #0f1015);
+  color: var(--text-normal, #f2f3f5);
+}
+
+/* Custom Discord scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+}

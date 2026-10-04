@@ -1,0 +1,5 @@
+[
+  {"path":"android/deps/lspatch.jar","url":"https://github.com/JingMatrix/LSPatch/releases/download/v1.2/lspatch-v1.2-487-release.jar","sha256":"d238fdc414d121b7fa454d8b4ccf420df3a8c97d563761861ff92bd9c5da2165"},
+  {"path":"android/deps/xposed-api.jar","url":"https://api.xposed.info/de/robv/android/xposed/api/82/api-82.jar","sha256":"f48c635f1c7469fdec0e00ad2ea0b7a6b2f5b55065784a35b7ca3a84615e8e25"},
+  {"path":"android/loader/src/main/assets/revenge.js","url":"https://github.com/revenge-mod/revenge-bundle/releases/download/v1.11.6/revenge.js","sha256":"8870b1bc93f02edebcada0169e4f57ac46d840ced16cdf6d83abfc1d543a0fe3"}
+]

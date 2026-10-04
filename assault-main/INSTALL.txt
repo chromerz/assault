@@ -1,0 +1,14 @@
+Assault 2.11.2
+
+Install Assault-Manager.apk on Android 9+. The loader is already embedded.
+In Manager: Download & prepare client, then Install prepared update.
+Android asks for installation permission and confirmation.
+The standalone Loader APK is for advanced use and has no launcher.
+No Discord APK or private signing keys are included.
+
+Official Discord uses a different signer. Removing it clears its local data.
+Preserve Manager app data: it contains your client update signing key.
+This build can update an existing Manager only if their signing certificates match.
+See docs/android-validation.md for the device acceptance checklist.
+Buildable project sources are included under source/.
+Read docs/publish-your-release.md for GitHub publishing and docs/in-app-controls.md for commands.
