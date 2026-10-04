@@ -106,3 +106,6 @@ Build, lint, signature verification, native patching and wrapper regression chec
 The floating **AS** control can be dragged to a saved position. Tap it to open controls; **Reset AS button position** restores its default left/right placement.
 
 AS settings use native grouped cards with system light/dark colors, scalable text and touch targets. The panel adapts to the current phone/tablet or multi-window area; the draggable button stays inside visible bounds, including the keyboard and display cutouts. Android 9 (API 28) remains the minimum. OEM skins, unusual fold/hinge layouts and every Android version cannot be certified from the available emulator.
+
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/chromerz/assault?utm_source=oss&utm_medium=github&utm_campaign=chromerz%2Fassault&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
